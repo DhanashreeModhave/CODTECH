@@ -1,0 +1,1 @@
+Company - C)DTECH IT SOLUTION NAME- Dhanashree Sharad Modhave  Intern ID- CT6WIRU Web Development - Data Science Batch Duration -January 20th 2025 to March 5th 2025  Mentor Name- Neela Santosh Kumar Task 1 - Data Pipeline Development Task 2 -  Deep Learning Project  Task 3- End to End Data Science Project  Task 4- Optimazation Model
